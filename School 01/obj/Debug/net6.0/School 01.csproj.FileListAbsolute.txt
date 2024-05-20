@@ -1,0 +1,65 @@
+C:\school Managment\School 01\School 01\bin\Debug\net6.0\appsettings.Development.json
+C:\school Managment\School 01\School 01\bin\Debug\net6.0\appsettings.json
+C:\school Managment\School 01\School 01\bin\Debug\net6.0\School 01.exe
+C:\school Managment\School 01\School 01\bin\Debug\net6.0\School 01.deps.json
+C:\school Managment\School 01\School 01\bin\Debug\net6.0\School 01.runtimeconfig.json
+C:\school Managment\School 01\School 01\bin\Debug\net6.0\School 01.dll
+C:\school Managment\School 01\School 01\bin\Debug\net6.0\School 01.pdb
+C:\school Managment\School 01\School 01\bin\Debug\net6.0\Humanizer.dll
+C:\school Managment\School 01\School 01\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\school Managment\School 01\School 01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\school Managment\School 01\School 01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\school Managment\School 01\School 01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\school Managment\School 01\School 01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\school Managment\School 01\School 01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\school Managment\School 01\School 01\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\school Managment\School 01\School 01\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\school Managment\School 01\School 01\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\school Managment\School 01\School 01\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\school Managment\School 01\School 01\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\school Managment\School 01\School 01\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\school Managment\School 01\School 01\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\school Managment\School 01\School 01\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\school Managment\School 01\School 01\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\school Managment\School 01\School 01\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\school Managment\School 01\School 01\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\school Managment\School 01\School 01\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\school Managment\School 01\School 01\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\school Managment\School 01\School 01\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\school Managment\School 01\School 01\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\school Managment\School 01\School 01\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\school Managment\School 01\School 01\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\school Managment\School 01\School 01\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\school Managment\School 01\School 01\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\school Managment\School 01\School 01\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\school Managment\School 01\School 01\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\school Managment\School 01\School 01\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\school Managment\School 01\School 01\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\school Managment\School 01\School 01\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\school Managment\School 01\School 01\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\school Managment\School 01\School 01\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\school Managment\School 01\School 01\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\school Managment\School 01\School 01\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\school Managment\School 01\School 01\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\school Managment\School 01\School 01\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\school Managment\School 01\School 01\obj\Debug\net6.0\School 01.csproj.AssemblyReference.cache
+C:\school Managment\School 01\School 01\obj\Debug\net6.0\School 01.GeneratedMSBuildEditorConfig.editorconfig
+C:\school Managment\School 01\School 01\obj\Debug\net6.0\School 01.AssemblyInfoInputs.cache
+C:\school Managment\School 01\School 01\obj\Debug\net6.0\School 01.AssemblyInfo.cs
+C:\school Managment\School 01\School 01\obj\Debug\net6.0\School 01.csproj.CoreCompileInputs.cache
+C:\school Managment\School 01\School 01\obj\Debug\net6.0\School 01.MvcApplicationPartsAssemblyInfo.cs
+C:\school Managment\School 01\School 01\obj\Debug\net6.0\School 01.MvcApplicationPartsAssemblyInfo.cache
+C:\school Managment\School 01\School 01\obj\Debug\net6.0\staticwebassets\msbuild.School 01.Microsoft.AspNetCore.StaticWebAssets.props
+C:\school Managment\School 01\School 01\obj\Debug\net6.0\staticwebassets\msbuild.build.School 01.props
+C:\school Managment\School 01\School 01\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.School 01.props
+C:\school Managment\School 01\School 01\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.School 01.props
+C:\school Managment\School 01\School 01\obj\Debug\net6.0\staticwebassets.pack.json
+C:\school Managment\School 01\School 01\obj\Debug\net6.0\staticwebassets.build.json
+C:\school Managment\School 01\School 01\obj\Debug\net6.0\staticwebassets.development.json
+C:\school Managment\School 01\School 01\obj\Debug\net6.0\scopedcss\bundle\School 01.styles.css
+C:\school Managment\School 01\School 01\obj\Debug\net6.0\School 01.csproj.CopyComplete
+C:\school Managment\School 01\School 01\obj\Debug\net6.0\School 01.dll
+C:\school Managment\School 01\School 01\obj\Debug\net6.0\refint\School 01.dll
+C:\school Managment\School 01\School 01\obj\Debug\net6.0\School 01.pdb
+C:\school Managment\School 01\School 01\obj\Debug\net6.0\School 01.genruntimeconfig.cache
+C:\school Managment\School 01\School 01\obj\Debug\net6.0\ref\School 01.dll
