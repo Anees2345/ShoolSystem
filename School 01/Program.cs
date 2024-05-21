@@ -5,7 +5,14 @@ var builder = WebApplication.CreateBuilder(args);
 //Add db
 builder.Services.AddDbContext<ApplicationDbContext>(Options => Options
 .UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
-
+// Add CORS policy
+//builder.Services.AddCors(options =>
+//{
+//    options.AddPolicy("AllowSpecificOrigin",
+//        builder => builder.WithOrigins("http://localhost:7206")
+//                          .AllowAnyMethod()
+//                          .AllowAnyHeader());
+//});
 // Add services to the container.
 builder.Services.AddControllers();
 
@@ -24,9 +31,9 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-
+//app.UseCors("AllowSpecificOrigin");
 app.UseAuthorization();
 
 app.MapControllers();
-
+app.UseCors(option=>option.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod()); 
 app.Run();
